@@ -1,0 +1,21 @@
+.Dictionary section{
+    background: #f5e1da;
+    padding: 15px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.103);
+    margin: 10px;
+}
+
+.Dictionary input{
+    width: 25%;
+    padding: 3px 4px;
+    border-radius: 8px;
+    font-weight: bolder;
+    border: 1px solid #f5e1da;
+    
+}
+
+.Dictionary #submit{
+    background-color: #ffffff;
+    color: #085f63;
+}
