@@ -34,6 +34,7 @@ search();
 
   if(loaded){return (
     <div className="Dictionary">
+      <h1>What word would you like to discover?</h1>
       <section>
       <form onSubmit={handleSubmit}>
         <input

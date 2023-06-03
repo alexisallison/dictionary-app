@@ -1,0 +1,12 @@
+.Meaning h3{
+    font-size: 30px;
+    line-height: 1.5;
+}
+
+.Meaning .definition{
+    font-size: 20px;
+}
+
+.Meaning .definition::first-letter{
+    text-transform: capitalize;
+}

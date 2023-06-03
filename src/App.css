@@ -15,9 +15,9 @@ h1, h2, h3, h4{
 }
 
 .App-logo {
-  max-width: 100px;
+  max-width: 150px;
   display: block;
-  margin: 0 auto;
+ margin-left: 5px;
 }
 
 .App-footer {
