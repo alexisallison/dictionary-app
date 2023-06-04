@@ -4,8 +4,7 @@ import "./Results.css";
 
 export default function Results(props) {
   if (props.results) {
-    console.log(props.results);
-    return (
+        return (
       <div className="Results">
         <section>
         <h2>{props.results.word}</h2>

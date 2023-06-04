@@ -10,7 +10,7 @@ function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
         <Dictionary defaultKeyword="dictionary" />
-        <footer className="text-center">Coded by Alexis Allison</footer>
+        <footer className="text-center">This <a href="https://github.com/alexisallison/dictionary-app.git" target="_blank" rel="noreferrer">Open-Sourced</a> app was coded by Alexis Allison and hosted on <a href="https://fabulous-marigold-1f0119.netlify.app/" target="_blank" rel="noreferrer">Netlify</a></footer>
       </div>
     </div>
   );
